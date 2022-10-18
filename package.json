@@ -4,13 +4,13 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": {
-    "name": "Soroush Chehresa",
-    "email": "s1996ch@gmail.com",
+    "name": "Bri Chavez",
+    "email": "brianachavez@gmail.com",
     "url": "https://soroush.js.org"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/soroushchehresa/github-readme-linkedin.git"
+    "url": "https://github.com/brichavez/github-readme-linkedin.git"
   },
   "license": "MIT",
   "devDependencies": {
