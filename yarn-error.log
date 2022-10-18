@@ -26,7 +26,7 @@ npm manifest:
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/soroushchehresa/github-readme-linkedin.git"
+      "url": "https://github.com/brichavez/github-readme-linkedin.git"
     },
     "license": "MIT",
     "devDependencies": {
